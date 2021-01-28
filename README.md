@@ -20,6 +20,6 @@
 [<img align="left" src="https://user-images.githubusercontent.com/64721275/106095068-b3bc8600-6165-11eb-863d-301a3b1ac0b6.png" width="30" height="30">](https://www.instagram.com/stefanadisurya/)
 <br /><br />
 ***
-[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanadisurya&hide=stars&show_icons=true&theme=tokyonight )](https://github.com/stefanadisurya)
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=stefanadisurya&hide=stars&show_icons=true&theme=tokyonight">](https://github.com/stefanadisurya)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanadisurya&layout=compact&show_icons=true&theme=tokyonight )](https://github.com/stefanadisurya)
 ***
