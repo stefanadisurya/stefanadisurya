@@ -1,6 +1,6 @@
 ## Hi, I'm Stefan 👋
-Computer Science Student at [BINUS University](https://binus.ac.id/)<br />
-Staff at [Cyber Security Community BINUS University](https://www.instagram.com/cscbinus/)
+- Computer Science Student at [BINUS University](https://binus.ac.id/)<br />
+- Staff at [Cyber Security Community BINUS University](https://www.instagram.com/cscbinus/)
 <br/><br/>
 ### Tools and Languages
 <code><img src="https://user-images.githubusercontent.com/64721275/106098667-fd0fd400-616b-11eb-917f-01761e32adfe.png" width="30" height="30"></code>
@@ -11,6 +11,8 @@ Staff at [Cyber Security Community BINUS University](https://www.instagram.com/c
 <code><img src="https://user-images.githubusercontent.com/64721275/106097550-131c9500-616a-11eb-9fa3-69df40132aad.png" width="30" height="30"></code>
 <code><img src="https://user-images.githubusercontent.com/64721275/106098847-4eb85e80-616c-11eb-8742-24cd5e04f7b8.png" width="30" height="30"></code>
 <code><img src="https://user-images.githubusercontent.com/64721275/106098711-157fee80-616c-11eb-8ff4-53351121089c.png" width="30" height="30"></code>
+<br/><br/>
+> "Do your best and let God do the rest." - Ben Carson
 <br/><br/>
 ### Find Me
 [<img align="left" src="https://user-images.githubusercontent.com/64721275/106094485-b1a5f780-6164-11eb-8be7-6244b83898c6.png" width="30" height="30">](https://www.linkedin.com/in/stefan-adisurya/)
