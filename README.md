@@ -21,5 +21,5 @@
 <br /><br />
 ***
 [<img align="center" src="https://github-readme-stats.vercel.app/api?username=stefanadisurya&hide=stars&show_icons=true&theme=tokyonight">](https://github.com/stefanadisurya)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanadisurya&layout=compact&show_icons=true&theme=tokyonight )](https://github.com/stefanadisurya)
+[<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanadisurya&layout=compact&show_icons=true&theme=tokyonight">](https://github.com/stefanadisurya)
 ***
