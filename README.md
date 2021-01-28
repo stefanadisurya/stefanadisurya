@@ -12,7 +12,8 @@
 <code><img src="https://user-images.githubusercontent.com/64721275/106098847-4eb85e80-616c-11eb-8742-24cd5e04f7b8.png" width="30" height="30"></code>
 <code><img src="https://user-images.githubusercontent.com/64721275/106098711-157fee80-616c-11eb-8ff4-53351121089c.png" width="30" height="30"></code>
 <br/><br/>
-> "Do your best and let God do the rest." - Ben Carson
+> "Do your best and let God do the rest."
+<br />- Ben Carson
 <br/><br/>
 ### Find Me
 [<img align="left" src="https://user-images.githubusercontent.com/64721275/106094485-b1a5f780-6164-11eb-8be7-6244b83898c6.png" width="30" height="30">](https://www.linkedin.com/in/stefan-adisurya/)
