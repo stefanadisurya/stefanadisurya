@@ -5,3 +5,4 @@ A technology enthusiast who works hard, responsible, honest, committed, and alwa
 Visit my LinkedIn: https://www.linkedin.com/in/stefan-adisurya/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanadisurya&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanadisurya)](https://github.com/stefanadisurya/github-readme-stats)
