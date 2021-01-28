@@ -1,4 +1,4 @@
-## Hi, I'm Stefan 👋
+## Hi, I'm Stefan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 - Computer Science Student at [BINUS University](https://binus.ac.id/)<br />
 - Staff at [Cyber Security Community BINUS University](https://www.instagram.com/cscbinus/)
 <br/><br/>
@@ -12,10 +12,7 @@
 <code><img src="https://user-images.githubusercontent.com/64721275/106098847-4eb85e80-616c-11eb-8742-24cd5e04f7b8.png" width="30" height="30"></code>
 <code><img src="https://user-images.githubusercontent.com/64721275/106098711-157fee80-616c-11eb-8ff4-53351121089c.png" width="30" height="30"></code>
 <br/><br/>
-> "Do your best and let God do the rest."
-<br />- Ben Carson
-<br/><br/>
-### Find Me
+### Find Me On
 [<img align="left" src="https://user-images.githubusercontent.com/64721275/106094485-b1a5f780-6164-11eb-8be7-6244b83898c6.png" width="30" height="30">](https://www.linkedin.com/in/stefan-adisurya/)
 [<img align="left" src="https://user-images.githubusercontent.com/64721275/106094714-09dcf980-6165-11eb-9fd0-ea0ba9f7b71f.png" width="30" height="30">](https://twitter.com/stefanadisurya)
 [<img align="left" src="https://user-images.githubusercontent.com/64721275/106094823-47418700-6165-11eb-90be-0bec5b1223d0.png" width="30" height="30">](https://www.behance.net/stefanadisurya)
@@ -23,6 +20,6 @@
 [<img align="left" src="https://user-images.githubusercontent.com/64721275/106095068-b3bc8600-6165-11eb-863d-301a3b1ac0b6.png" width="30" height="30">](https://www.instagram.com/stefanadisurya/)
 <br /><br />
 ***
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanadisurya&hide=stars&show_icons=true&theme=tokyonight )](https://github.com/stefanadisurya)
+[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanadisurya&hide=stars&show_icons=true&theme=tokyonight )](https://github.com/stefanadisurya)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanadisurya&layout=compact&show_icons=true&theme=tokyonight )](https://github.com/stefanadisurya)
 ***
