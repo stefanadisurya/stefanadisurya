@@ -1,6 +1,6 @@
 ## Hi, I'm Stefan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 - 💻 Computer Science Student at [BINUS University](https://binus.ac.id/)<br />
-- 👾 Staff at [Cyber Security Community BINUS University](https://www.instagram.com/cscbinus/)
+- 🍎 iOS Developer at [Apple Developer Academy | Indonesia](https://developeracademy.apps.binus.ac.id/)
 - 🌱 Currently learning web frameworks and libraries
 - 👯 Looking to collaborate on web development projects
 - 📫 Reach me [here](https://www.linkedin.com/in/stefan-adisurya/)
