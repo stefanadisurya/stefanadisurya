@@ -1,7 +1,7 @@
 ## Hi, I'm Stefan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-- 💻 Computer Science Student at [BINUS University](https://binus.ac.id/)<br />
-- 🌱 Currently learning web and iOS development
-- 👯 Looking forward to collaborate on web development projects
+- 💻 Computer Science Student
+- 🌱 Currently learning iOS development
+- 👯 Looking forward to collaborate on iOS development projects
 - 📫 Reach me [here](https://www.linkedin.com/in/stefan-adisurya/)
 <br/><br/>
 ### Tools and Languages
