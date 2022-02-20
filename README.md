@@ -10,7 +10,7 @@
 [<code><img src="https://user-images.githubusercontent.com/64721275/106098847-4eb85e80-616c-11eb-8742-24cd5e04f7b8.png" height="25px"></code>](https://getbootstrap.com/)
 [<code><img src="https://user-images.githubusercontent.com/64721275/106098711-157fee80-616c-11eb-8ff4-53351121089c.png" height="25px"></code>](https://laravel.com/)
 [<code><img src="https://user-images.githubusercontent.com/64721275/106102227-ab6a4800-6171-11eb-9b8e-0f614724df4b.png" height="25px"></code>](https://git-scm.com/)
-[<code><img src="hhttps://user-images.githubusercontent.com/64721275/154825896-1b0a8cc7-9707-4fe6-98d1-ecde82515447.png" height="25px"></code>](https://developer.apple.com/documentation/swift)
+[<code><img src="https://user-images.githubusercontent.com/64721275/154825896-1b0a8cc7-9707-4fe6-98d1-ecde82515447.png" height="25px"></code>](https://developer.apple.com/documentation/swift)
 <br/><br/>
 ### Find Me On
 [<img align="left" src="https://user-images.githubusercontent.com/64721275/106094485-b1a5f780-6164-11eb-8be7-6244b83898c6.png" width="24px" height="22px">](https://www.linkedin.com/in/stefan-adisurya/)
