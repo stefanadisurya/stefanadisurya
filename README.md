@@ -1,4 +1,4 @@
-## Hi, I'm Stefan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## Hi, I'm Stefan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 - 💻 Computer Science Student
 - 🌱 Currently learning iOS development
 - 👯 Looking forward to collaborate on iOS development projects
