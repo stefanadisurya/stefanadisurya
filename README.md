@@ -1,5 +1,4 @@
 ## Hi, I'm Stefan
-- 💻 Computer Science Student
 - 🌱 Currently learning iOS development
 - 👯 Looking forward to collaborate on iOS development projects
 - 📫 Reach me [here](https://www.linkedin.com/in/stefan-adisurya/)
