@@ -1,5 +1,5 @@
 ## Hi, I'm Stefan
-- 🌱 Currently learning iOS development
+- 🌱 Currently working as an iOS developer
 - 👯 Looking forward to collaborate on iOS development projects
 - 📫 Reach me [here](https://www.linkedin.com/in/stefan-adisurya/)
 <br/><br/>
